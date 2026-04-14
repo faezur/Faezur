@@ -43,14 +43,6 @@ Key Highlights:
 
 ---
 
-### 3D & Visualization
-
-- Strong understanding of 3D space, lighting, and composition  
-- Experience building 3D environments in Unity  
-- Applied 3D thinking in architecture-based AI outputs  
-
----
-
 ### Current Focus
 
 👉 Seeking remote roles (MERN / AI-focused roles)  
