@@ -20,11 +20,11 @@ I build real-world applications combining Web3, AI, and full-stack systems
 Currently seeking remote opportunities (Blockchain / MERN + AI)
 
 
+
 ## 3D & Visualization Experience
 
 - Strong understanding of 3D space, lighting, and composition
 - Experience with Unity (3D environments & gameplay)
 - Applied 3D thinking in architectural visualization (ArchFlow)
-
-## Demo:
+ Demo:
 [https://youtu.be/_4IYcq6GmrY]
