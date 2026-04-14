@@ -13,7 +13,7 @@ Focused on solving practical problems with clean UI and smart workflows
 ### Featured Project
 
 ##  ArchFlow — AI Architecture Generator  
-Converts 2D floor plans into AI-generated architectural designs  
+Transforms 2D floor plans into realistic AI-generated architectural visuals, helping users quickly visualize design ideas
 
 Key Highlights:
 - AI image generation (Stable Diffusion API)
@@ -21,13 +21,14 @@ Key Highlights:
 - Project history system
 - Clean UI with real-time generation
 
-🎥 Demo: (add link coming soon)
+🎥 Demo: Uploading soon  
+🌐 Live: Deploying soon
 
 ---
 
 ### Tech Stack
 
-- **Frontend:** React, HTML, CSS, JavaScript, tailwind css
+- **Frontend:** React, JavaScript , tailwind css
 - **Backend:** Node.js, Express  
 - **AI:** Stable Diffusion API, Prompt Engineering  
 - **Other:** Unity, C#  
