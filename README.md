@@ -1,18 +1,30 @@
 ## Hi, I'm Faiz 
 
-[<!--
-**faezur/Faezur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Blockchain Developer | MERN Stack | Unity (Game Dev Background)
+Currently building:
+## ArchFlow – AI-powered architecture design generator
 
-Here are some ideas to get you started:
+Tech Stack:
+- Blockchain: Solidity, Web3.js, MetaMask
+- Frontend: React, HTML, CSS, JS
+- Backend: Node.js, Express
+- Others: Unity, C#
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-]
-(https://github.com/faezur/soccer-jump-challenge)
+Projects:
+🔹 ArchFlow (LIVE): [link]
+🔹 ChatGPT Clone (Gemini API): [link]
+🔹 Unity Games: [https://youtu.be/N6Cui4lCO38]
+
+Goal:
+I build real-world applications combining Web3, AI, and full-stack systems  
+Currently seeking remote opportunities (Blockchain / MERN + AI)
+
+
+## 3D & Visualization Experience
+
+- Strong understanding of 3D space, lighting, and composition
+- Experience with Unity (3D environments & gameplay)
+- Applied 3D thinking in architectural visualization (ArchFlow)
+
+## Demo:
+[https://youtu.be/_4IYcq6GmrY]
